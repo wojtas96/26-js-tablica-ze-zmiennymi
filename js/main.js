@@ -1,8 +1,7 @@
-let number = 1996;
-console.log(number);
-array.push(30);
-console.log(array);
-array.push(500);
-console.log(array);
-let array = [1996, 30, 500];
-console.log(array);
+let number1 = 1996;
+let number2 = 15;
+let number3 = 5;
+
+let arrayVar = [number1, number2, number3];
+console.log(arrayVar);
+
